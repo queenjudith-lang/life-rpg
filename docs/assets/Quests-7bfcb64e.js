@@ -1,0 +1,1 @@
+import{j as e}from"./index-4cc30b6c.js";const t=()=>e.jsxs("div",{className:"max-w-4xl mx-auto px-4 py-6 text-white",children:[e.jsx("h1",{className:"text-3xl font-bold mb-4",children:"Quests"}),e.jsx("p",{className:"text-gray-300",children:"Track your active and completed quests here."})]});export{t as default};
